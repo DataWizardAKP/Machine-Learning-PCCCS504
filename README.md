@@ -1,5 +1,5 @@
 # Artificial Intelligence & Machine Learning (PCCCS504)
-This is course intented for students of Engineering Students with the following course objectives.
+This is course intented for students of Engineering Students with the following course objectives.\\
 **Obj 1.** The students will understand the basics concepts of Artificial Intelligence and Machine Learning.
 **Obj 2.** They will also learn and will be able to apply different AI and ML models to various datasets.
 
